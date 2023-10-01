@@ -1,2 +1,3 @@
 # Pub-Record-Adapters
-:ant: Record Adapters Monorepo for Pub
+
+Record Adapters Monorepo for Pub
